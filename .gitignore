@@ -1,0 +1,19 @@
+# Secrets — never commit
+api.txt
+kaggle.json
+.env
+
+# Local planning notes
+PLAN.md
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw APTOS download (~10 GB) and model checkpoints
+*.zip
+train_images/
+test_images/
+*.pt
+*.pth
