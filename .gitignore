@@ -17,3 +17,9 @@ train_images/
 test_images/
 *.pt
 *.pth
+
+# Local working files (cell guides, blank notebook copies, scratch screenshots)
+notebook*_colab_cells.txt
+colab_notebooks/
+*.stackdump
+/*.png
