@@ -14,7 +14,8 @@ A class-conditional GAN generates 64×64 retinal fundus images for diabetic reti
 notebooks/   Google Colab notebooks (run in order)
 dataset/     processed data (aptos_64.npz, splits.csv) + download instructions
 paper/       research papers followed
-report/      final project report
+report/      final project report (PDF)
+presentation/ slides for the project presentation (PPTX)
 proposal/    project proposal
 results/     figures and tables (see results/README.md)
 ```
